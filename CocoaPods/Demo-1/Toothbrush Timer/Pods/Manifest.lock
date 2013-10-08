@@ -1,0 +1,16 @@
+PODS:
+  - DACircularProgress (2.1.0)
+  - DAProgressOverlayView (1.0.2)
+  - TestFlightSDK (2.0)
+
+DEPENDENCIES:
+  - DACircularProgress (~> 2.1.0)
+  - DAProgressOverlayView (~> 1.0.2)
+  - TestFlightSDK (~> 2.0)
+
+SPEC CHECKSUMS:
+  DACircularProgress: 8c8f20c8dffdd647fbf570ddecbc2b1b59da5888
+  DAProgressOverlayView: abfd16f70476496e34176eeb94b139fc5e6d5f6b
+  TestFlightSDK: 940906d4b2550cf397c6f2d2fcc4ebfdcd8ae858
+
+COCOAPODS: 0.25.0

@@ -1,0 +1,1 @@
+PODS_PMLPOPPER_OTHER_LDFLAGS = -framework AVFoundation
